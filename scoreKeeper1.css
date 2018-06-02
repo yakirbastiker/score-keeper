@@ -1,0 +1,55 @@
+.winner{
+	color: green;
+}
+
+body{
+	background: #00d2ff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3a7bd5, #00d2ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3a7bd5, #00d2ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-family: 'Bungee', cursive;
+font-family: 'Roboto Mono', monospace;
+}
+
+h1{
+	text-align: center;
+	margin-top: 200px;
+}
+
+
+#p1Display{
+	color: red;
+}
+
+#p2Display{
+	color: green;
+}
+
+#p1{
+
+background-color: red;
+}
+
+#p2 {
+	background-color: green;
+}
+
+#reset{
+	background-color: gold;
+}
+
+button {
+    
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+p {
+	color: indigo;
+}
